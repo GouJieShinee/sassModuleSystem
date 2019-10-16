@@ -1,0 +1,4 @@
+@use 'var';
+.box {
+    color: var.$--color-primary
+}
